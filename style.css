@@ -3,8 +3,8 @@
     --cor-fontes: rgb(255, 255, 255);
 }
 .cabecalho{
-    background-color:#DB0000;
-    color: #DB0000;
+    background-color:var(--cor-fundo);
+    color: var(--cor-fontes);
     display: flex;
     justify-content: space-around;
     align-items: center;
