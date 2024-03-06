@@ -1,6 +1,6 @@
 :root{
     --cor-fundo:#DB0000;
-    --cor-fontes: rgb(255, 0, 0);
+    --cor-fontes: rgb(255, 255, 255);
 }
 .cabecalho{
     background-color:#DB0000;
@@ -10,8 +10,10 @@
     align-items: center;
     padding: 24px 0;    
 }
-.imagem-cabecalho{width: 10%;}
-.item-listacabecalho{
+.imagem-cabecalho{
+    width: 10%;
+}
+.item-lista-cabecalho{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
