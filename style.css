@@ -3,8 +3,8 @@
     --cor-fontes: #FFFDFD;
 }
 .cabecalho{
-    background-color:var(--cor-fundo);
-    color: var(--cor-fundo);
+    background-color:#DB0000;
+    color: #DB0000;
     display: flex;
     justify-content: left;
 align-items: center;
