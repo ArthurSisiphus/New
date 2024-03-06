@@ -10,10 +10,8 @@
     align-items: center;
     padding: 24px 0;    
 }
-.imagem-cabecalho{
-    width: 10%;
-}
-.item-lista-cabecalho{
+.imagem-cabecalho{width: 10%;}
+.item-listacabecalho{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
