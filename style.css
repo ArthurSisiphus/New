@@ -19,3 +19,7 @@ width: 10%;
     font-size: 24px;
 
 }
+.estudante-todos{
+    display: grid;
+    grid-tamplate-columns: 20% 20% 20% 20%
+}
